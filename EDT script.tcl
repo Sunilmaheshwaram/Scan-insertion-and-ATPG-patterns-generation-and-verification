@@ -5,7 +5,7 @@ read_cell_library /--path--
 dofile /--path--
 tessent_scan_setup
 // Specify parameters for EDT logic
-set_edt_options -channels 1
+set_edt_options -channels 10
 // Currently-defined names and inversion status of EDT channel and control pins
 report_edt_pins
 // Enter ANALYSIS mode
