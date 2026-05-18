@@ -5,17 +5,17 @@ One of the main DFT projects performed and mentioned in my CV/Resume. # 2
 Scan insertion, ATPG, Simulation & Verification is performed on a sequential design during VLSI DFT training.
 
 # Specifications
-Number of flipflops : ~25K flipflops
-Shift frequency : 25MHZ
-Tools used : Tessent- TestKompress & ModelSim
-No.of Clocks : Single Clock
-Flipflops type : Positive edge triggered
-Time period : 40ns
-MCL(Max Chain Length): 500
-No.of Scan chains(Internal Scan Chains): 50
-Compression Ratio(CR): 5X
-External Channels: 10
-Location : Semicon Technolabs
+1. Number of flipflops : ~25K flipflops
+2. Shift frequency : 25MHZ
+3. Tools used : Tessent- TestKompress & ModelSim
+4. No.of Clocks : Single Clock
+5. Flipflops type : Positive edge triggered
+6. Time period : 40ns
+7. MCL(Max Chain Length): 500
+8. No.of Scan chains(Internal Scan Chains): 50
+9. Compression Ratio(CR): 5X
+10. External Channels: 10
+11. Location : Semicon Technolabs
 
 # Role and Responsibilites
 1. Performed Scan insertion & chain stitching
